@@ -1,0 +1,82 @@
+
+body{
+    width: 100%;
+    margin: 0px;
+     text-align:center}
+
+.box1 { position: relative;
+    width: 100%;
+    padding-top: 100px;
+    background-color: #eaf6f6;
+    color: #66bfbf;  }
+    .box1 span{ text-decoration: underline;
+  }
+    
+  .font {
+  font-family: "Sacramento", cursive;
+  font-weight: 600;
+  font-style: normal;
+   font-size: 60px;
+
+  }
+    
+    #cloud_1 { position: absolute;
+     top: 80px; 
+    right: 200px;}
+
+    .cloud_2 { position: absolute;
+      left: 200px     ;}
+
+    .box2 { text-align: center;background-color: #40514040;
+    position: relative; margin-top: 0px;}
+    .box2 h2 { 
+       color: #66bfbf;
+      }
+
+    .box2 span {
+      color: #eaf6f6;
+    }
+    .box2>h3 
+    {color: #66bfbf;
+     }
+     .box2>span{color:red; }
+
+     .icon {
+        position: absolute;
+        bottom: 200px;
+        left: 10px;
+        float: left;
+     }
+        
+
+     .hot{
+        position: relative;
+        left: 350px;
+        top: 100px;
+        
+     }
+     .pepper{ float: right;
+        position: absolute;
+        right: 350px;}
+
+     button {
+      background-color: #66bfbf;
+      color: white;
+     border-radius: 5px; 
+     border-style: hidden ;
+     margin-bottom: 30px;
+    }
+    button:hover {
+      background-color: red}
+
+    .box3 {width: 100%; 
+      background-color: #66bfbf; 
+      top: 20px;
+    color:#1bb6bb;hover: red; 
+    font-size: 20px;}
+
+    a {
+      text-decoration: none;
+      color: #1bb6bb;}
+    .box3 p{color: white;} 
+
